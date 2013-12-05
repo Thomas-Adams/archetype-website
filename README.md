@@ -15,4 +15,4 @@
 
 </pre>
 
-## 5. Now you can use the Maven type also in Sprimg now.##
+## 5. Now you can use the Maven type also in Spring now.##
